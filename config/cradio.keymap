@@ -59,7 +59,7 @@
             &kp SQT    &kp DQT    &kp LPAR   &kp LBRC   &kp LBKT       &kp PIPE   &kp EQUAL  &kp PLUS   &kp MINUS  &kp SEMI
         //├──────────┼──────────┼──────────┼──────────┼──────────┤   ├──────────┼──────────┼──────────┼──────────┼──────────┤
         //│          │          │          │          │          │   │  \       │  ~       │  `       │  _       │  ?       │
-            &kp LT     &kp GT     &kp RPAR   &kp RBRC   &kp RBKT       &kp BSLH   &kp TILDE  &kp GRAVE  &kp UNDER  &kp QKARK
+            &kp LT     &kp GT     &kp RPAR   &kp RBRC   &kp RBKT       &kp BSLH   &kp TILDE  &kp GRAVE  &kp UNDER  &kp QMARK
         //╰──────────┴──────────┴──────────┼──────────┼──────────┤   ├──────────┼──────────┼──────────┴──────────┴──────────╯
                                              &trans     &trans         &trans     &trans
         //                                 ╰──────────┴──────────╯   ╰──────────┴──────────╯
