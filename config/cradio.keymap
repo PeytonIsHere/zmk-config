@@ -76,7 +76,7 @@
            &kp LCTRL  &kp LSHIFT  &kp LALT   &kp LGUI  &kp C_VOL_DN   &kp TAB    &kp LEFT  &kp DOWN   &kp RIGHT   &kp BSPC
         //├──────────┼──────────┼──────────┼──────────┼──────────┤   ├──────────┼──────────┼──────────┼──────────┼──────────┤
         //│          │          │          │          │          │   │          │          │          │          │          │
-            &caps_word  &kp end   &kp INS     &kp HOME  &kp C_MUTE      &trans     &trans  &kp C_BRI_UP &kp C_BRI_DN  &kp RET
+            &kp KC_CAPS  &kp end   &kp INS     &kp HOME  &kp C_MUTE      &trans     &trans  &kp C_BRI_UP &kp C_BRI_DN  &kp RET
         //╰──────────┴──────────┴──────────┼──────────┼──────────┤   ├──────────┼──────────┼──────────┴──────────┴──────────╯
                                              &trans     &trans         &trans     &trans
         //                                 ╰──────────┴──────────╯   ╰──────────┴──────────╯
